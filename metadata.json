@@ -1,0 +1,7 @@
+{
+  "name": "India Mitra AI",
+  "description": "An advanced Indian AI assistant for text, image, and document processing, formatting, and PDF generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
